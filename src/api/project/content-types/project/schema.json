@@ -74,6 +74,11 @@
     },
     "highlightproject": {
       "type": "richtext"
+    },
+    "route": {
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }
